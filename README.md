@@ -4,21 +4,19 @@ convert animated webp to gif
 ### Prerequisites
 
 [webp](https://developers.google.com/speed/webp/download)  
-[imagemagick](https://imagemagick.org/script/download.php)  
-[rename](http://manpages.ubuntu.com/manpages/bionic/man1/rename.ul.1.html)
+[imagemagick](https://imagemagick.org/script/download.php)
 
 - macOS
 
    ```
    brew install webp
    brew install imagemagick
-   brew install rename
    ```
 
 - Ubuntu/Debian
 
   ```
-  sudo apt install webp imagemagick rename
+  sudo apt install webp imagemagick
   ```
 
 ### Usage
